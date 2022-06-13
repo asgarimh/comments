@@ -4,7 +4,6 @@
     <div class="container">
         <div class="col-md-12">
             <div class="row">
-
                 @foreach($posts as $post)
                     <div class="col-md-3 card" style="direction: rtl;margin: 5px">
                         <div class="card-body">
